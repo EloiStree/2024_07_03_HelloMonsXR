@@ -2,24 +2,25 @@
 
 Bonjour à la réalité virtuel
 
-
 Nous avons 3 jours ensembles: 
 - 5 Oculus Quest 2
 - 5 Pico 4
-- 
 
+
+
+  
 
 
 
 # Scope et simplicité
 
 ## Thomas
-- Cubisme: https://youtu.be/aDCbdJBHqw4
-  - https://www.linkedin.com/in/thomas-van-bouwel-ba06233b/?originalSubdomain=be
+
+Il y a une personne qui pour repésente la simplicité: [Thomas Van Bouwel](https://www.linkedin.com/in/thomas-van-bouwel-ba06233b/?originalSubdomain=be) avec Cubism
+- [Cubisme](https://youtu.be/aDCbdJBHqw4): https://youtu.be/aDCbdJBHqw4
+
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/9e1ffbd9-69ef-4b09-a0bb-5c0efb352af2)](https://youtu.be/aDCbdJBHqw4)
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/aa08b9a0-22e7-4430-b559-90285e2f1439)](https://youtu.be/0UowL5cjhaI)
-
-
 
 ## Eloi 
 
@@ -32,7 +33,7 @@ Nous avons 3 jours ensembles:
 
 ## Mes débuts
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/8be23a36-b9f8-412e-9846-905016604125)](https://youtu.be/QqeDQi5-pTQ)
-
+([Snooppy](https://youtu.be/cB1fjEJqvo8) 
 
 
 
