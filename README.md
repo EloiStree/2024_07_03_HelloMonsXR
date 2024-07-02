@@ -1,4 +1,3 @@
-![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/2cdecbdb-5fdf-4270-827d-85d1038a35d1)
 # Hello Mons XR
 
 Bonjour à la réalité virtuelle
@@ -38,6 +37,15 @@ Il y a une personne qui représente la simplicité : [Thomas Van Bouwel](https:/
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/78923b7f-ede6-4a0f-827c-4b5ba56e2cd5)](https://youtu.be/4Gk-2IwnEEo)
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/62a16c68-ded1-40d7-95b1-777dcf693d89)](https://youtu.be/nvMY04GPniE)
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/ddc72d09-f9c5-4a2f-956c-f84c83d17085)](https://youtu.be/YkGAWxjKQFQ)
+
+
+## Scratch
+
+L'art de rester simple:
+[![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/67392a64-b730-4df8-975a-58bac1185b60)
+](https://scratch.mit.edu/projects/966307753/editor/)
+Noté, que vous n'avez pas besoin de game engine pour faire un jeu:
+3D Multijoueur en scratch : https://scratch.mit.edu/projects/17783489
 
 
 ## Mini-Jam : Drone Bullet Hells
