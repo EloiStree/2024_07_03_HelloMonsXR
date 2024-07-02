@@ -41,46 +41,29 @@ CCC: Camera XR - Drone avoiding bullets - Controller
 Simple but :
 - Mercredi: Avoir un jeu XR avec un drone basique 
 - Jeudi: Avoir beaucoup de "bullets" d'être confronter à de l'optimisation
-- Vendredi: SideQuest - Vive XR Elite, Pimax - [Half Life ALyx](https://www.youtube.com/watch?v=ZX-03yBcm3k)
+- Vendredi: SideQuest - Quest 3, Lynx R1, Vive XR Elite, Pimax - [Half Life ALyx](https://www.youtube.com/watch?v=ZX-03yBcm3k)
+
+
+Toucher: Créé une boite à outil qui active un objet par le touché
+Regarder: Créé un boite à outil qui active un objet par le regard prolongé
+Gamepad: Créé une boite à outil qui écoute à deux joysticks Xbox, Quest et Pico 4
+Drone: Créé une boite à outil qui permet bouger un drone à 4 axes
+
+Bullet: Créé une boite à outil qui permet de faire apparêtre des bullets linéaires.
+- LOD: Appliquer le LOD de Unity pour changer l'aspect du projectile.
+- Lot's of bullet:
+  - Junior: Créé un "pool" de bullet basique
+  - Medior: Créé un "pool" de bullet utilisant JobTransform
+  - Medior+: Créé un pool utilisant un mesh
 
 
 
 
-# Android
+Pincher & Grabber: Créé un outil permettant de pincher ou grabber sans dépendance à un lib XR ([Example](https://gitlab.com/eloistree/2020_02_01_MagnetSnapping.git
+))
  
 
-# Interaction de base
-
-
-## Toucher
-
-### Avec la manette
-
-### Avec les doights
-
-
-## Regarder
-
-### Faire un action 
-
-
-## Trigger, Grab, Joystick, Buttons
-
-
-
-## Gun
-
-
-## Bullets 
-
-
-
-
-
-
-
-- https://gitlab.com/eloistree/2020_02_01_MagnetSnapping.git
-
+-------------------------------------------------------------------
 
 
 # What is VR
