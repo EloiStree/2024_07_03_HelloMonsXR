@@ -1,4 +1,4 @@
-
+![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/2cdecbdb-5fdf-4270-827d-85d1038a35d1)
 # Hello Mons XR
 
 Bonjour à la réalité virtuelle
@@ -76,3 +76,38 @@ Il y a une personne qui représente la simplicité : [Thomas Van Bouwel](https:/
 
 - https://www.youtube.com/watch?v=wRCS2-AAyNM
 - https://www.youtube.com/watch?v=8rVnkWbLnk8
+
+
+
+## MRTK, VRTK, Unity Toolkit 3
+
+MRTK: Corporation
+[![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/d6225597-7052-4e58-96a1-fea25cd653f7)](https://learn.microsoft.com/fr-fr/windows/mixed-reality/mrtk-unity/mrtk3-overview/)
+https://learn.microsoft.com/fr-fr/windows/mixed-reality/mrtk-unity/mrtk3-overview/
+
+VRKT: Community
+[![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/3ca8024e-fca6-4945-b248-752bc8a99ea1)](https://www.youtube.com/@VirtualRealityToolkit)
+https://github.com/ExtendRealityLtd/VRTK
+
+
+XRTK 3: Unity SDK
+
+https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html
+
+Meta Block: Natif SKD
+
+
+
+
+# Faire un jeu en VR ?
+
+Tutorial Youtube:
+[![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/42a7aca1-3b5d-44db-b63a-803a594b25d1)
+](https://www.youtube.com/watch?v=HhtTtvBF5bI&list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud&index=2)  
+
+
+Udemy (free)
+[![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/7468ff51-9d41-431d-8de6-4cbac6766a7f)](https://www.udemy.com/course/mixedreality/?couponCode=METASDK)  
+[https://www.udemy.com/course/mixedreality/](https://www.udemy.com/course/mixedreality/?couponCode=METASDK)  
+https://www.xrhack.com   
+
