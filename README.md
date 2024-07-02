@@ -39,10 +39,6 @@ Il y a une personne qui représente la simplicité : [Thomas Van Bouwel](https:/
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/62a16c68-ded1-40d7-95b1-777dcf693d89)](https://youtu.be/nvMY04GPniE)
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/ddc72d09-f9c5-4a2f-956c-f84c83d17085)](https://youtu.be/YkGAWxjKQFQ)
 
-## Mes débuts
-
-[![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/8be23a36-b9f8-412e-9846-905016604125)](https://youtu.be/QqeDQi5-pTQ)
-[Doudou Rumble](https://youtu.be/QqeDQi5-pTQ) - _[Snooppy](https://youtu.be/cB1fjEJqvo8)_
 
 ## Mini-Jam : Drone Bullet Hells
 
@@ -113,3 +109,13 @@ Udemy (free)
 [https://www.udemy.com/course/mixedreality/](https://www.udemy.com/course/mixedreality/?couponCode=METASDK)  
 https://www.xrhack.com   
 
+
+
+
+--------------
+
+
+## Mes débuts
+
+[![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/8be23a36-b9f8-412e-9846-905016604125)](https://youtu.be/QqeDQi5-pTQ)
+[Doudou Rumble](https://youtu.be/QqeDQi5-pTQ) - _[Snooppy](https://youtu.be/cB1fjEJqvo8)_ 
