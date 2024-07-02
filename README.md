@@ -28,6 +28,8 @@ Il y a une personne qui pour repésente la simplicité: [Thomas Van Bouwel](http
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/78923b7f-ede6-4a0f-827c-4b5ba56e2cd5)](https://youtu.be/4Gk-2IwnEEo)
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/62a16c68-ded1-40d7-95b1-777dcf693d89)](https://youtu.be/nvMY04GPniE)
 
+[![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/ddc72d09-f9c5-4a2f-956c-f84c83d17085)](https://youtu.be/YkGAWxjKQFQ
+)
 
 
 
@@ -37,16 +39,36 @@ Il y a une personne qui pour repésente la simplicité: [Thomas Van Bouwel](http
 
 
 
-# 
+- 
 
 
+# Android
 
-# Toucher
+ 
+
+# Interaction
+
+## Toucher
 
 
-# Regarder
+## Regarder
+
+
+## Pincher
+
+
+## Oui Non
+
 
 
 # Pincher 
 
 - https://gitlab.com/eloistree/2020_02_01_MagnetSnapping.git
+
+
+
+# What is VR
+![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/50139707-e4bb-44dc-bd3e-1e48a1891c5b)
+
+- https://www.youtube.com/watch?v=wRCS2-AAyNM
+- https://www.youtube.com/watch?v=8rVnkWbLnk8
