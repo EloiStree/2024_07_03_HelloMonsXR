@@ -34,14 +34,14 @@ Il y a une personne qui pour repésente la simplicité: [Thomas Van Bouwel](http
 
 ## Mini-Jam: Drone Bullet Hells
 
-Quatre pillier: Bullet - Hell - Drone - XR
-CCC: Camera XR - Drone avoiding bullets - Controller
+**Quatre pillier**:  Bullet, Hell , Drone , XR
+**CCC**: Camera XR , Drone avoiding bullets , Controller
 
 
-Simple but :
+Planning:
 - Mercredi: Avoir un jeu XR avec un drone basique 
-- Jeudi: Avoir beaucoup de "bullets" d'être confronter à de l'optimisation
-- Vendredi: SideQuest - Quest 3, Lynx R1, Vive XR Elite, Pimax - [Half Life ALyx](https://www.youtube.com/watch?v=ZX-03yBcm3k)
+- Jeudi: Avoir beaucoup de "bullets" d'être confronter à de l'optimisation via le profiler
+- Vendredi: SideQuest et alternative au Quest: Lynx R1, Vive XR Elite, Pimax ([Half Life ALyx](https://www.youtube.com/watch?v=ZX-03yBcm3k))
 
 
 Toucher: Créé une boite à outil qui active un objet par le touché
