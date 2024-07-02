@@ -91,12 +91,14 @@ https://github.com/ExtendRealityLtd/VRTK
 
 
 XRTK 3: Unity SDK
-
+[![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/84d32dec-fc8c-4aaf-8192-03927f60fd99)](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html)
 https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html
 
-Meta Block: Natif SKD
-
-
+Meta Block: Natif SKD   
+[![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/ac178eb8-8b6f-4ba0-bf40-e18a06e0a8d3)
+](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657)  
+https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657  
+  
 
 
 # Faire un jeu en VR ?
