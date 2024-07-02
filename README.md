@@ -119,3 +119,13 @@ https://www.xrhack.com
 
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/8be23a36-b9f8-412e-9846-905016604125)](https://youtu.be/QqeDQi5-pTQ)
 [Doudou Rumble](https://youtu.be/QqeDQi5-pTQ) - _[Snooppy](https://youtu.be/cB1fjEJqvo8)_ 
+
+
+
+
+----------------
+
+
+## Game Jam / Group
+
+![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/922864d3-5571-437d-80af-ad7ad0aa5dfb)
