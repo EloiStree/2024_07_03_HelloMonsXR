@@ -1,17 +1,33 @@
-# 2024_07_03_HelloMonsXR
 
-Bonjour à la réalité virtuel
+# Hello Mons XR
 
-Nous avons 3 jours ensembles: 
+Bonjour à la réalité virtuelle
+
+Nous avons des casques XR/VR prenant la poussière.
+
+Des appareils XR :
 - 5 Oculus Quest 2
 - 5 Pico 4
+
+D'autres formats :
+- 2 Vive XR Elite
+- 2 Pimax
+- 1 Lynx
+
+Le but de l'atelier :
+- Apprendre à développer sur les appareils Android XR
+- Apprendre à utiliser le profiler Unity3D et optimiser
+- Pratiquer la création de boîtes à outils
+- Pratiquer le système d'input via les contrôleurs XR et Xbox
+- Tester le Quest 3 en AR et le Pimax sur Alyx
+
 
 # Scope et simplicité
 
 ## Thomas
 
-Il y a une personne qui pour repésente la simplicité: [Thomas Van Bouwel](https://www.linkedin.com/in/thomas-van-bouwel-ba06233b/?originalSubdomain=be) avec Cubism
-- [Cubisme](https://youtu.be/aDCbdJBHqw4): https://youtu.be/aDCbdJBHqw4
+Il y a une personne qui représente la simplicité : [Thomas Van Bouwel](https://www.linkedin.com/in/thomas-van-bouwel-ba06233b/?originalSubdomain=be) avec Cubism
+- [Cubism](https://youtu.be/aDCbdJBHqw4) : https://youtu.be/aDCbdJBHqw4
 
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/9e1ffbd9-69ef-4b09-a0bb-5c0efb352af2)](https://youtu.be/aDCbdJBHqw4)
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/aa08b9a0-22e7-4430-b559-90285e2f1439)](https://youtu.be/0UowL5cjhaI)
@@ -23,50 +39,39 @@ Il y a une personne qui pour repésente la simplicité: [Thomas Van Bouwel](http
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/62a16c68-ded1-40d7-95b1-777dcf693d89)](https://youtu.be/nvMY04GPniE)
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/ddc72d09-f9c5-4a2f-956c-f84c83d17085)](https://youtu.be/YkGAWxjKQFQ)
 
-
-
 ## Mes débuts
+
 [![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/8be23a36-b9f8-412e-9846-905016604125)](https://youtu.be/QqeDQi5-pTQ)
-[Doudou Rumble](https://youtu.be/QqeDQi5-pTQ) - _[Snooppy](https://youtu.be/cB1fjEJqvo8)_ 
+[Doudou Rumble](https://youtu.be/QqeDQi5-pTQ) - _[Snooppy](https://youtu.be/cB1fjEJqvo8)_
 
+## Mini-Jam : Drone Bullet Hells
 
+**Quatre piliers** : Bullet, Hell, Drone, XR  
+**CCC** : Camera XR, Drone avoiding bullets, Controller
 
+### Planning :
+- Mercredi : Avoir un jeu XR avec un drone basique
+- Jeudi : Avoir beaucoup de "bullets" et être confronté à de l'optimisation via le profiler
+- Vendredi : SideQuest et alternatives au Quest : Lynx R1, Vive XR Elite, Pimax ([Half Life Alyx](https://www.youtube.com/watch?v=ZX-03yBcm3k))
 
-## Mini-Jam: Drone Bullet Hells
+### Tâches :
 
-**Quatre pillier**:  Bullet, Hell , Drone , XR
-**CCC**: Camera XR , Drone avoiding bullets , Controller
-
-
-Planning:
-- Mercredi: Avoir un jeu XR avec un drone basique 
-- Jeudi: Avoir beaucoup de "bullets" d'être confronter à de l'optimisation via le profiler
-- Vendredi: SideQuest et alternative au Quest: Lynx R1, Vive XR Elite, Pimax ([Half Life ALyx](https://www.youtube.com/watch?v=ZX-03yBcm3k))
-
-
-Toucher: Créé une boite à outil qui active un objet par le touché
-Regarder: Créé un boite à outil qui active un objet par le regard prolongé
-Gamepad: Créé une boite à outil qui écoute à deux joysticks Xbox, Quest et Pico 4
-Drone: Créé une boite à outil qui permet bouger un drone à 4 axes
-
-Bullet: Créé une boite à outil qui permet de faire apparêtre des bullets linéaires.
-- LOD: Appliquer le LOD de Unity pour changer l'aspect du projectile.
-- Lot's of bullet:
-  - Junior: Créé un "pool" de bullet basique
-  - Medior: Créé un "pool" de bullet utilisant JobTransform
-  - Medior+: Créé un pool utilisant un mesh
-
-
-
-
-Pincher & Grabber: Créé un outil permettant de pincher ou grabber sans dépendance à un lib XR ([Example](https://gitlab.com/eloistree/2020_02_01_MagnetSnapping.git
-))
- 
+- Toucher : Créer une boîte à outils qui active un objet par le toucher
+- Regarder : Créer une boîte à outils qui active un objet par le regard prolongé
+- Gamepad : Créer une boîte à outils qui écoute à deux joysticks Xbox, Quest et Pico 4
+- Drone : Créer une boîte à outils qui permet de bouger un drone à 4 axes
+- Bullet : Créer une boîte à outils qui permet de faire apparaître des bullets linéaires
+  - LOD : Appliquer le LOD de Unity pour changer l'aspect du projectile
+  - Beaucoup de bullets :
+    - Junior : Créer un "pool" de bullets basiques
+    - Medior : Créer un "pool" de bullets utilisant JobTransform
+    - Medior+ : Créer un pool utilisant un mesh
+- Pincher & Grabber : Créer un outil permettant de pincher ou grabber sans dépendance à une librairie XR ([Exemple](https://gitlab.com/eloistree/2020_02_01_MagnetSnapping.git))
 
 -------------------------------------------------------------------
 
-
 # What is VR
+
 ![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/50139707-e4bb-44dc-bd3e-1e48a1891c5b)
 
 - https://www.youtube.com/watch?v=wRCS2-AAyNM
