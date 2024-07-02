@@ -26,4 +26,8 @@ https://www.youtube.com/watch?v=f21l7T1aFu0
 
 
 
-![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/3f40bb8e-9de5-4414-9735-bd66c3780b3a)
+
+
+LOD: 
+[![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/3f40bb8e-9de5-4414-9735-bd66c3780b3a)
+](https://sketchfab.com/search?q=jamscenter&type=models)
