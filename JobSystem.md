@@ -64,3 +64,24 @@ https://github.com/EloiStree/2024_04_16_IMMO_ShieldDrone
 
 --------------
 
+
+
+
+
+# Light Baking et unlit
+See magic door
+
+# Transparent problem
+
+See Quest game style cartoon 
+
+# Mat 
+
+Enable GPU
+
+# Mesh Baking
+
+ See Mesh Baker
+
+
+
