@@ -61,7 +61,10 @@ Scratch: https://scratch.mit.edu/projects/966307753/editor/
     - Junior : Créer un "pool" de bullets basiques
     - Medior : Créer un "pool" de bullets utilisant JobTransform
     - Medior+ : Créer un pool utilisant un mesh
+
+XR spécifique:
 - Pincher & Grabber : Créer un outil permettant de pincher ou grabber sans dépendance à une librairie XR ([Exemple](https://gitlab.com/eloistree/2020_02_01_MagnetSnapping.git))
+- Setup Room sans SDK: Permetter avec la main (ou autre) de définir le sol sans SDK (voir les murs si vous sentez de niveau et créatif)
 
 -------------------------------------------------------------------
 
@@ -109,7 +112,13 @@ Udemy (free)
 https://www.xrhack.com   
 
 
+## Start point
 
+- Pico 4: https://developer.picoxr.com/resources/   ([Open XR version](https://youtu.be/eyHl34vxm3c))
+- Quest 2: [New way](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657)  ([Old way](https://assetstore.unity.com/packages/tools/integration/oculus-integration-deprecated-82022))
+- Pimax: https://github.com/wearvr/pimax-vr-unity-sdk-instructions ?
+- Elite XR: https://developer.vive.com/resources/vive-wave/tutorials/installing-wave-xr-plugin-unity/
+- Lynx R1: https://portal.lynx-r.com/downloads/
 
 --------------
 
