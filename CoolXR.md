@@ -21,3 +21,6 @@ https://www.linkedin.com/posts/marakdavid_vr-future-tech-activity-70819571998910
 
 
 
+![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/e5c82f95-56ba-44ef-a304-daa6409f0bdd)
+https://youtu.be/JwxRZpQzbxs
+
