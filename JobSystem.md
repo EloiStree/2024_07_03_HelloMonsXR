@@ -1,5 +1,40 @@
 Salut à tous :)
 
+
+# Move the drone
+
+Pour le fait de bouger le drone.
+
+Trois possibiltées:
+- boite à outil qui utiliser deux transformes pour les mains
+- boite à outil qui utiliser des transforme pour la main du joueur
+- Apprendre à utiliser la bibliothèque de OVR pour lire les 4 axes.
+
+Example, Pincher avec deux transforms :https://gitlab.com/eloistree/2020_02_01_MagnetSnapping.git
+
+
+
+# MonoBehaviour et Transform is "bad"
+
+Pour comprendre l'utilité d'utiliser le Job System, il faut d'abord comprendre le point faible de Unity3D.
+
+Créé une boite à outil (non job system avec le pool d'Arnaud d'avoir le plus de projectile possible afficher à l'écran que vous puissier)
+Pour permet cela utiliser le LOD de Unity et utiliser un Quad that look at the camera quand loin de vous.
+
+Travailler par du sur le Quest 2.
+Example, vous travailler sur la boite à outil sur le PC d'un et importer tester sur le PC du seconds.
+
+
+# Job System for 16000 projectil
+
+- Bouger 16k astéroide 
+- Orianté 16k Squad d'astéroide.
+- Géré 16k collision avec les deux mains du joueur et son drone.
+
+
+
+
+
 Être en capacité de calculer sur le CPU à la place du GPU est un pouvoir immense sur Quest et Android.
 
 
