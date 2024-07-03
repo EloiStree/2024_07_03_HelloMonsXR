@@ -5,3 +5,6 @@ Salut à tous :)
 
 Le but est d'explorer les bases du job system pour que vous puissiez l'utiliser.
 
+
+
+Bullet FTL : https://github.com/EloiStree/2021_08_19_FTLBullets_CapsuleCollisionWithMathAndJob
