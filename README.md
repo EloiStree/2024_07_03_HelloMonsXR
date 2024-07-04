@@ -137,13 +137,13 @@ https://www.xrhack.com
 ## Game Jam / Group
 
 ![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/922864d3-5571-437d-80af-ad7ad0aa5dfb)
-
+"Ce n'est pas en prenant neuf femmes que l'on peut faire un enfant en un mois."
 
 -----------------------------
 
 ## Jam 
 
 ![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/4b999eba-7503-4f2c-bf29-821841199b86)
-
-
+- L'important dans une jam c'est pas la fin, c'est le moment et de s'accorder.
+- L'important dans un hackathon c'est pas de gagner le prix du jury, c'est de hacker.
 
