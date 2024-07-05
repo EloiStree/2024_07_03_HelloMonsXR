@@ -148,3 +148,8 @@ https://www.xrhack.com
 - L'important dans un hackathon c'est pas de gagner le prix du jury, c'est de hacker. 
   
 - Tool pour hackathon: https://github.com/EloiStree/2022_04_20_PitchGuideHackathon  
+
+
+
+![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/3b006c74-980f-440a-a17c-f54443582277)
+
