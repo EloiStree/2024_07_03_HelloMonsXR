@@ -153,3 +153,15 @@ https://www.xrhack.com
 
 ![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/3b006c74-980f-440a-a17c-f54443582277)
 
+
+
+--------------------
+# Idée post workshop
+
+Utiliser cette vidéo pour pratiquer les jobs et computes :
+[![image](https://github.com/user-attachments/assets/c2001fe5-ab86-42af-a25b-3649bf9c7476)](https://youtu.be/qlfh_rv6khY
+)https://youtu.be/qlfh_rv6khY
+
+
+
+
