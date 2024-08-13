@@ -1,3 +1,6 @@
+[![image](https://github.com/user-attachments/assets/72fd18ac-0111-4068-b7a1-6d4051201620)](https://www.linkedin.com/posts/hitmarker_track-craft-by-brainz-gamify-activity-7226976637181923328-5mVG?utm_source=share&utm_medium=member_desktop)
+https://www.linkedin.com/posts/hitmarker_track-craft-by-brainz-gamify-activity-7226976637181923328-5mVG?utm_source=share&utm_medium=member_desktop
+
 ![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/c7ee0740-9041-4b3f-ab32-cf3f58c244f8)
 
 ![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/d95fb58b-1dec-4217-8c0e-db8d0dcf540c)
