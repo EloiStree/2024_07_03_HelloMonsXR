@@ -24,6 +24,11 @@ https://www.linkedin.com/posts/marakdavid_vr-future-tech-activity-70819571998910
 ![image](https://github.com/EloiStree/2024_07_03_HelloMonsXR/assets/20149493/e5c82f95-56ba-44ef-a304-daa6409f0bdd)
 https://youtu.be/JwxRZpQzbxs
 
+
+
+[![image](https://github.com/user-attachments/assets/8b11d4a6-bc30-41d9-8184-cc4c5fb5b3f3)](https://www.linkedin.com/posts/joemethod_mixedreality-handtracking-innovation-ugcPost-7235017078687080448-DZyg?utm_source=share&utm_medium=member_desktop)
+https://www.linkedin.com/posts/joemethod_mixedreality-handtracking-innovation-ugcPost-7235017078687080448-DZyg?utm_source=share&utm_medium=member_desktop
+
 [![image](https://github.com/user-attachments/assets/015c9a04-e010-42ba-8aac-ce8b8b8bd501)
 ](https://www.linkedin.com/posts/brilliant-sole_interfacing-with-our-smart-insoles-in-ar-activity-7233894703992057859-fqRe?utm_source=share&utm_medium=member_desktop)
 https://www.linkedin.com/posts/brilliant-sole_interfacing-with-our-smart-insoles-in-ar-activity-7233894703992057859-fqRe?utm_source=share&utm_medium=member_desktop
