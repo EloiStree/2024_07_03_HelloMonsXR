@@ -32,3 +32,9 @@ https://www.linkedin.com/posts/joemethod_mixedreality-handtracking-innovation-ug
 [![image](https://github.com/user-attachments/assets/015c9a04-e010-42ba-8aac-ce8b8b8bd501)
 ](https://www.linkedin.com/posts/brilliant-sole_interfacing-with-our-smart-insoles-in-ar-activity-7233894703992057859-fqRe?utm_source=share&utm_medium=member_desktop)
 https://www.linkedin.com/posts/brilliant-sole_interfacing-with-our-smart-insoles-in-ar-activity-7233894703992057859-fqRe?utm_source=share&utm_medium=member_desktop
+
+
+
+
+
+[![image](https://github.com/user-attachments/assets/ba0e664e-f792-464c-9b7f-01b283a9fdf4)](https://www.linkedin.com/posts/wim-reygaert-a40547142_we-asked-german-artist-bond-truluv-to-try-activity-7236091374507364352-_tZu?utm_source=share&utm_medium=member_desktop)
