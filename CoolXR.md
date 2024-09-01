@@ -15,8 +15,8 @@ https://www.linkedin.com/posts/hitmarker_track-craft-by-brainz-gamify-activity-7
 https://www.linkedin.com/posts/marakdavid_vr-future-tech-activity-7081957199891025920-Fm9v?utm_source=share&utm_medium=member_desktop
 
 
-
-
+[![image](https://github.com/user-attachments/assets/7b15f976-b013-4407-bbb6-9ef050b9f643)](https://www.linkedin.com/posts/mtobjasz_augmentedreality-innovation-arglasses-ugcPost-7234132263511175168-1odc?utm_source=share&utm_medium=member_desktop)
+https://www.linkedin.com/posts/mtobjasz_augmentedreality-innovation-arglasses-ugcPost-7234132263511175168-1odc?utm_source=share&utm_medium=member_desktop
 
 
 
