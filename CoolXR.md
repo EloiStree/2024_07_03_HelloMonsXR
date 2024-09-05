@@ -38,3 +38,8 @@ https://www.linkedin.com/posts/brilliant-sole_interfacing-with-our-smart-insoles
 
 
 [![image](https://github.com/user-attachments/assets/ba0e664e-f792-464c-9b7f-01b283a9fdf4)](https://www.linkedin.com/posts/wim-reygaert-a40547142_we-asked-german-artist-bond-truluv-to-try-activity-7236091374507364352-_tZu?utm_source=share&utm_medium=member_desktop)
+
+
+
+[![image](https://github.com/user-attachments/assets/6c5be879-3cc1-4f03-9c7a-732ac8641625)](https://youtu.be/qJv-OGELWeA?t=229)
+https://youtu.be/qJv-OGELWeA?t=229
