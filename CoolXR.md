@@ -43,3 +43,7 @@ https://youtu.be/8B8RnFokAFc
 
 [![image](https://github.com/user-attachments/assets/6c5be879-3cc1-4f03-9c7a-732ac8641625)](https://youtu.be/qJv-OGELWeA?t=229)
 https://youtu.be/qJv-OGELWeA?t=229
+
+
+[![image](https://github.com/user-attachments/assets/00e34cf4-1d57-4ab3-96d9-bcada12dc23e)](https://www.linkedin.com/posts/marlene-j%C3%BCngling-a8a6322a3_quest3-depthapi-project-finally-ugcPost-7225174814657847296-jbzN?utm_source=share&utm_medium=member_desktop)
+https://www.linkedin.com/posts/marlene-j%C3%BCngling-a8a6322a3_quest3-depthapi-project-finally-ugcPost-7225174814657847296-jbzN?utm_source=share&utm_medium=member_desktop
