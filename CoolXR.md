@@ -51,3 +51,8 @@ https://www.linkedin.com/posts/marlene-j%C3%BCngling-a8a6322a3_quest3-depthapi-p
 
 [![image](https://github.com/user-attachments/assets/5bc9d51c-5fdf-4463-b817-c6e3b87b7989)](https://www.linkedin.com/posts/nicolasperrier_vous-pensez-que-faire-du-sport-augment%C3%A9-en-activity-7244236463259721729-moqr?utm_source=share&utm_medium=member_desktop)
 https://www.linkedin.com/posts/nicolasperrier_vous-pensez-que-faire-du-sport-augment%C3%A9-en-activity-7244236463259721729-moqr?utm_source=share&utm_medium=member_desktop
+
+
+
+[![image](https://github.com/user-attachments/assets/2403d64f-77d0-474e-a452-b07cb84e700e)](https://www.linkedin.com/posts/jtriveri_live-in-app-large-environment-mapping-with-ugcPost-7249453849487273985-GeIM?utm_source=share&utm_medium=member_desktop)
+https://www.linkedin.com/posts/jtriveri_live-in-app-large-environment-mapping-with-ugcPost-7249453849487273985-GeIM?utm_source=share&utm_medium=member_desktop
