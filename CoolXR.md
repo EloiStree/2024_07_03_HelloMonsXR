@@ -56,3 +56,9 @@ https://www.linkedin.com/posts/nicolasperrier_vous-pensez-que-faire-du-sport-aug
 
 [![image](https://github.com/user-attachments/assets/2403d64f-77d0-474e-a452-b07cb84e700e)](https://www.linkedin.com/posts/jtriveri_live-in-app-large-environment-mapping-with-ugcPost-7249453849487273985-GeIM?utm_source=share&utm_medium=member_desktop)
 https://www.linkedin.com/posts/jtriveri_live-in-app-large-environment-mapping-with-ugcPost-7249453849487273985-GeIM?utm_source=share&utm_medium=member_desktop
+µ
+
+
+
+[![image](https://github.com/user-attachments/assets/a6695d63-ff78-4a5f-b9a1-74d81b9816ef)](https://www.linkedin.com/posts/quentinvalembois_the-mixed-reality-detective-game-ive-been-activity-7246942088892661761-84Cd?utm_source=share&utm_medium=member_desktop)
+https://www.linkedin.com/posts/quentinvalembois_the-mixed-reality-detective-game-ive-been-activity-7246942088892661761-84Cd?utm_source=share&utm_medium=member_desktop
