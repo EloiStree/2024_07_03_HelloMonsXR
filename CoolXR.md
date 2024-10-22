@@ -62,3 +62,7 @@ https://www.linkedin.com/posts/jtriveri_live-in-app-large-environment-mapping-wi
 
 [![image](https://github.com/user-attachments/assets/a6695d63-ff78-4a5f-b9a1-74d81b9816ef)](https://www.linkedin.com/posts/quentinvalembois_the-mixed-reality-detective-game-ive-been-activity-7246942088892661761-84Cd?utm_source=share&utm_medium=member_desktop)
 https://www.linkedin.com/posts/quentinvalembois_the-mixed-reality-detective-game-ive-been-activity-7246942088892661761-84Cd?utm_source=share&utm_medium=member_desktop
+
+
+[![image](https://github.com/user-attachments/assets/195912ae-67fe-4846-b2dd-21e38fcf6675)](https://www.linkedin.com/posts/marakdavid_reality-futuretech-activity-7254004751728566272-Jq9e?utm_source=share&utm_medium=member_desktop)
+https://www.linkedin.com/posts/marakdavid_reality-futuretech-activity-7254004751728566272-Jq9e?utm_source=share&utm_medium=member_desktop
