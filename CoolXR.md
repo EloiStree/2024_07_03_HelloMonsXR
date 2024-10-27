@@ -66,3 +66,8 @@ https://www.linkedin.com/posts/quentinvalembois_the-mixed-reality-detective-game
 
 [![image](https://github.com/user-attachments/assets/195912ae-67fe-4846-b2dd-21e38fcf6675)](https://www.linkedin.com/posts/marakdavid_reality-futuretech-activity-7254004751728566272-Jq9e?utm_source=share&utm_medium=member_desktop)
 https://www.linkedin.com/posts/marakdavid_reality-futuretech-activity-7254004751728566272-Jq9e?utm_source=share&utm_medium=member_desktop
+
+
+
+[![image](https://github.com/user-attachments/assets/5eb99182-0eec-4c22-85ba-ca65113e7f51)](https://www.linkedin.com/posts/rubenfro_other-experiments-with-ar-in-unity-this-ugcPost-7253038517662949377-Jl9U?utm_source=share&utm_medium=member_desktop)
+https://www.linkedin.com/posts/rubenfro_other-experiments-with-ar-in-unity-this-ugcPost-7253038517662949377-Jl9U?utm_source=share&utm_medium=member_desktop
