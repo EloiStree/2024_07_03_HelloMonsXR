@@ -83,3 +83,7 @@ https://www.facebook.com/watch?v=915832137086215&locale=fr_FR
 
 [![image](https://github.com/user-attachments/assets/deeecd59-e8b8-4270-9929-37c20bee4249)](https://www.linkedin.com/posts/francisco-v-diaz_excited-to-share-my-first-xr-game-prototype-ugcPost-7273514090197626880-921Y?utm_source=share&utm_medium=member_desktop)   
 https://www.linkedin.com/posts/francisco-v-diaz_excited-to-share-my-first-xr-game-prototype-ugcPost-7273514090197626880-921Y?utm_source=share&utm_medium=member_desktop  
+
+
+[![image](https://github.com/user-attachments/assets/ef6bae58-66db-41f3-8794-5e7b3ef31b9a)](https://www.linkedin.com/posts/jtriveri_wip-collaborative-room-scanning-for-lasertag-activity-7282109305103781888-q2rb?utm_source=share&utm_medium=member_desktop)
+https://www.linkedin.com/posts/jtriveri_wip-collaborative-room-scanning-for-lasertag-activity-7282109305103781888-q2rb?utm_source=share&utm_medium=member_desktop
