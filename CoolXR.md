@@ -92,3 +92,9 @@ https://www.linkedin.com/posts/jtriveri_wip-collaborative-room-scanning-for-lase
 
 [![image](https://github.com/user-attachments/assets/59cbc5a6-d8e1-41c3-88ef-14f48bda8ddc)](https://www.linkedin.com/posts/tt1990_endless-runner-in-vr-for-my-first-project-ugcPost-7281690839200780288-BnQf?utm_source=share&utm_medium=member_desktop)
 https://www.linkedin.com/posts/tt1990_endless-runner-in-vr-for-my-first-project-ugcPost-7281690839200780288-BnQf?utm_source=share&utm_medium=member_desktop
+
+
+[![image](https://github.com/user-attachments/assets/5ace28df-19c4-4d03-bae7-c80632a7d419)](https://www.linkedin.com/posts/robin-pultera_mixedreality-metaquest-quest3s-ugcPost-7283856319210565632-soJt?utm_source=share&utm_medium=member_desktop)
+https://www.linkedin.com/posts/robin-pultera_mixedreality-metaquest-quest3s-ugcPost-7283856319210565632-soJt?utm_source=share&utm_medium=member_desktop
+
+
