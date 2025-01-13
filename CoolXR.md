@@ -98,3 +98,14 @@ https://www.linkedin.com/posts/tt1990_endless-runner-in-vr-for-my-first-project-
 https://www.linkedin.com/posts/robin-pultera_mixedreality-metaquest-quest3s-ugcPost-7283856319210565632-soJt?utm_source=share&utm_medium=member_desktop
 
 
+
+
+
+Pas de la vr mais:
+
+
+[![image](https://github.com/user-attachments/assets/097d9ec1-9a7e-4b24-baa6-cc64cc832b7f)](https://www.linkedin.com/posts/hitmarker_metal-frontier-combat-testing-by-%E8%8C%B6%E8%8C%B6%E5%9D%8A%E4%B8%BB-activity-7284230146453065728-yUac?utm_source=share&utm_medium=member_desktop)
+
+https://www.linkedin.com/posts/hitmarker_metal-frontier-combat-testing-by-%E8%8C%B6%E8%8C%B6%E5%9D%8A%E4%B8%BB-activity-7284230146453065728-yUac?utm_source=share&utm_medium=member_desktop
+
+
