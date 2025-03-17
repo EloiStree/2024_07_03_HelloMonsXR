@@ -126,3 +126,8 @@ https://www.linkedin.com/posts/anthonykozak_last-weekends-prototype-a-roller-coa
 
 
 ![image](https://github.com/user-attachments/assets/f9265f0b-6f39-44ec-b134-3ebf63c2e990)
+
+
+
+[![image](https://github.com/user-attachments/assets/e2c14661-4544-47ec-b570-6d9782f6f749)](https://www.linkedin.com/posts/aminhp_mixedreality-xr-aiart-ugcPost-7307075025545691136-yUPf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)
+https://www.linkedin.com/posts/aminhp_mixedreality-xr-aiart-ugcPost-7307075025545691136-yUPf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo
