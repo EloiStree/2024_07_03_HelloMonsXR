@@ -133,4 +133,5 @@ https://www.linkedin.com/posts/anthonykozak_last-weekends-prototype-a-roller-coa
 https://www.linkedin.com/posts/aminhp_mixedreality-xr-aiart-ugcPost-7307075025545691136-yUPf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo
 
 
-![image](https://github.com/user-attachments/assets/193c304c-04a1-4cbd-b9ea-42be22c2774d)
+[![image](https://github.com/user-attachments/assets/193c304c-04a1-4cbd-b9ea-42be22c2774d)](https://maxvanleeuwen.com/projects/)
+https://maxvanleeuwen.com/projects/
