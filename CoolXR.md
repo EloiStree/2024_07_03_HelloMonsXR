@@ -139,5 +139,8 @@ https://maxvanleeuwen.com/projects/
 
 
 
+[![image](https://github.com/user-attachments/assets/42667eae-8fcb-4cf5-94cc-ce976af2d488)](https://www.linkedin.com/posts/huguesbruyere_mr-ai-passthrough-ugcPost-7309329395419107328-KkJN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)
+
+
 [![image](https://github.com/user-attachments/assets/6cd44732-c94b-4486-a557-ca31c0d088cb)](https://www.linkedin.com/feed/update/urn:li:activity:7311031188477886466/)
 https://www.linkedin.com/feed/update/urn:li:activity:7311031188477886466/
