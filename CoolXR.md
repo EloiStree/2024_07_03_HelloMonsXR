@@ -144,3 +144,8 @@ https://maxvanleeuwen.com/projects/
 
 [![image](https://github.com/user-attachments/assets/6cd44732-c94b-4486-a557-ca31c0d088cb)](https://www.linkedin.com/feed/update/urn:li:activity:7311031188477886466/)
 https://www.linkedin.com/feed/update/urn:li:activity:7311031188477886466/
+
+
+
+[![image](https://github.com/user-attachments/assets/cf3acc61-97b2-4f71-8892-7d1520a11a4c)](https://www.linkedin.com/posts/lucas-martinic_xr-unity-quest-ugcPost-7308465697959923775-OT6h?
+https://www.linkedin.com/posts/lucas-martinic_xr-unity-quest-ugcPost-7308465697959923775-OT6h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZoutm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)
