@@ -154,3 +154,7 @@ https://www.linkedin.com/posts/lucas-martinic_xr-unity-quest-ugcPost-73084656979
 [![image](https://github.com/user-attachments/assets/adbcda65-2e19-40bc-b92a-c2b42fcf7061)
 ](https://www.linkedin.com/posts/christoph-spinger-280621190_following-up-on-my-aruco-marker-meta-quest-ugcPost-7309156533257306112-HKrM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)
 https://www.linkedin.com/posts/christoph-spinger-280621190_following-up-on-my-aruco-marker-meta-quest-ugcPost-7309156533257306112-HKrM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo
+
+
+[![image](https://github.com/user-attachments/assets/cd6c1558-afa6-4a86-9442-868aea9611b5)](https://www.linkedin.com/posts/aurelio-puerta-martin_xr-imagetracking-opencv-ugcPost-7312379886411640832-8rUK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)
+https://www.linkedin.com/posts/aurelio-puerta-martin_xr-imagetracking-opencv-ugcPost-7312379886411640832-8rUK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo
