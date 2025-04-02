@@ -158,3 +158,7 @@ https://www.linkedin.com/posts/christoph-spinger-280621190_following-up-on-my-ar
 
 [![image](https://github.com/user-attachments/assets/cd6c1558-afa6-4a86-9442-868aea9611b5)](https://www.linkedin.com/posts/aurelio-puerta-martin_xr-imagetracking-opencv-ugcPost-7312379886411640832-8rUK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)
 https://www.linkedin.com/posts/aurelio-puerta-martin_xr-imagetracking-opencv-ugcPost-7312379886411640832-8rUK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo
+
+
+[![image](https://github.com/user-attachments/assets/ac5742b0-0d1c-4880-ae09-df024c78e3ce)](https://www.facebook.com/share/r/18oaRbyeoy/)
+https://www.facebook.com/share/r/18oaRbyeoy/
