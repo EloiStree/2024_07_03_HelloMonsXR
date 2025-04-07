@@ -143,6 +143,11 @@ https://maxvanleeuwen.com/projects/
 
 
 [![image](https://github.com/user-attachments/assets/6cd44732-c94b-4486-a557-ca31c0d088cb)](https://www.linkedin.com/feed/update/urn:li:activity:7311031188477886466/)
+
+
+
+![image](https://github.com/user-attachments/assets/4269c29e-7a97-4d04-9810-9768675e4caf)
+
 https://www.linkedin.com/feed/update/urn:li:activity:7311031188477886466/
 
 
@@ -162,3 +167,7 @@ https://www.linkedin.com/posts/aurelio-puerta-martin_xr-imagetracking-opencv-ugc
 
 [![image](https://github.com/user-attachments/assets/ac5742b0-0d1c-4880-ae09-df024c78e3ce)](https://www.facebook.com/share/r/18oaRbyeoy/)
 https://www.facebook.com/share/r/18oaRbyeoy/
+
+
+[![image](https://github.com/user-attachments/assets/6bec90ac-8f1c-4453-87f8-7f7aef235880)](https://www.linkedin.com/feed/update/urn:li:activity:7314734944730210304/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BBb4xLlHIQ8Sh5p%2BP2HfJIw%3D%3D)
+https://www.linkedin.com/feed/update/urn:li:activity:7314734944730210304/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BBb4xLlHIQ8Sh5p%2BP2HfJIw%3D%3D
