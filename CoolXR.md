@@ -171,3 +171,8 @@ https://www.facebook.com/share/r/18oaRbyeoy/
 
 [![image](https://github.com/user-attachments/assets/6bec90ac-8f1c-4453-87f8-7f7aef235880)](https://www.linkedin.com/feed/update/urn:li:activity:7314734944730210304/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BBb4xLlHIQ8Sh5p%2BP2HfJIw%3D%3D)
 https://www.linkedin.com/feed/update/urn:li:activity:7314734944730210304/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BBb4xLlHIQ8Sh5p%2BP2HfJIw%3D%3D
+
+
+
+[![image](https://github.com/user-attachments/assets/222b2523-3106-472c-935d-dd19deb56555)](https://www.linkedin.com/posts/robert-wetzold_travrsal-vr-indiegamedev-ugcPost-7314972193438720000-UPTN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)  
+https://www.linkedin.com/posts/robert-wetzold_travrsal-vr-indiegamedev-ugcPost-7314972193438720000-UPTN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo
