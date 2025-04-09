@@ -176,3 +176,8 @@ https://www.linkedin.com/feed/update/urn:li:activity:7314734944730210304/?lipi=u
 
 [![image](https://github.com/user-attachments/assets/222b2523-3106-472c-935d-dd19deb56555)](https://www.linkedin.com/posts/robert-wetzold_travrsal-vr-indiegamedev-ugcPost-7314972193438720000-UPTN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)  
 https://www.linkedin.com/posts/robert-wetzold_travrsal-vr-indiegamedev-ugcPost-7314972193438720000-UPTN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo
+
+
+
+[![image](https://github.com/user-attachments/assets/35f63cd4-886f-4d58-bdf6-0448582ec1ba)](https://www.linkedin.com/posts/jr-arman_applevisionpro-ar-visionos-ugcPost-7309659814832300033-tPmd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)
+https://www.linkedin.com/posts/jr-arman_applevisionpro-ar-visionos-ugcPost-7309659814832300033-tPmd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo
