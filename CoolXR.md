@@ -182,6 +182,9 @@ https://www.linkedin.com/posts/robert-wetzold_travrsal-vr-indiegamedev-ugcPost-7
 [![image](https://github.com/user-attachments/assets/35f63cd4-886f-4d58-bdf6-0448582ec1ba)](https://www.linkedin.com/posts/jr-arman_applevisionpro-ar-visionos-ugcPost-7309659814832300033-tPmd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)
 https://www.linkedin.com/posts/jr-arman_applevisionpro-ar-visionos-ugcPost-7309659814832300033-tPmd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo
 
+[![image](https://github.com/user-attachments/assets/a08b460a-a2e1-4802-8e93-7f4bd52a0e27)](https://www.linkedin.com/posts/shrofftejas_xr-metaquest-handtracking-activity-7318693783389237248-zV0D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)
+
+
 
 Chip battle
 https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/228
