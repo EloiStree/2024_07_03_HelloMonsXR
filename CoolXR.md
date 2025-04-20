@@ -189,3 +189,8 @@ https://www.linkedin.com/posts/jr-arman_applevisionpro-ar-visionos-ugcPost-73096
 Chip battle
 https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/228
 https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/228
+
+[![image](https://github.com/user-attachments/assets/cc9ec5d4-83cb-4e39-b902-4d9b6bf9070b)](https://www.linkedin.com/posts/olegfrolovdesign_mixedreality-unity3d-prototyping-activity-7318204337980125184-61Z7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)
+
+
+
